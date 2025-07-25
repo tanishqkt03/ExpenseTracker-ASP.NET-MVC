@@ -4,7 +4,7 @@ An enterprise-ready **Expense Tracker** application built using **ASP.NET Core M
 
 ---
 
-![Dashboard](/ExpenseTracker-ASP.NET-MVC/Expense%20Tracker/Dash.jpg)
+![Dashboard](/ExpenseTracker-ASP.NET-MVC/ExpenseTracker/Dash.jpg)
 
 
 ## ✨ Features
