@@ -3,8 +3,7 @@
 An enterprise-ready **Expense Tracker** application built using **ASP.NET Core MVC** and **Syncfusion UI Components**.
 
 ---
-
-![Dashboard](/ExpenseTracker-ASP.NET-MVC/ExpenseTracker/Dash.jpg)
+![Dash](https://github.com/user-attachments/assets/79ef3eff-fa29-489a-9da2-f06d503dba69)
 
 
 ## ✨ Features
